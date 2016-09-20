@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlotOptions>
+  <Payouts>
+    <Payout symbol="1">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="0" />
+      <Payout count="3" payout="1" />
+      <Payout count="4" payout="10" />
+      <Payout count="5" payout="50" />
+    </Payout>
+    <Payout symbol="2">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="0" />
+      <Payout count="3" payout="3" />
+      <Payout count="4" payout="15" />
+      <Payout count="5" payout="75" />
+    </Payout>
+    <Payout symbol="3">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="0" />
+      <Payout count="3" payout="5" />
+      <Payout count="4" payout="20" />
+      <Payout count="5" payout="100" />
+    </Payout>
+    <Payout symbol="4">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="0" />
+      <Payout count="3" payout="10" />
+      <Payout count="4" payout="40" />
+      <Payout count="5" payout="200" />
+    </Payout>
+    <Payout symbol="5">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="0" />
+      <Payout count="3" payout="15" />
+      <Payout count="4" payout="50" />
+      <Payout count="5" payout="300" />
+    </Payout>
+    <Payout symbol="6">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="0" />
+      <Payout count="3" payout="20" />
+      <Payout count="4" payout="100" />
+      <Payout count="5" payout="500" />
+    </Payout>
+    <Payout symbol="7">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="1" />
+      <Payout count="3" payout="30" />
+      <Payout count="4" payout="200" />
+      <Payout count="5" payout="1000" />
+    </Payout>
+    <Payout symbol="8">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="3" />
+      <Payout count="3" payout="50" />
+      <Payout count="4" payout="300" />
+      <Payout count="5" payout="1500" />
+    </Payout>
+    <Payout symbol="9">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="5" />
+      <Payout count="3" payout="70" />
+      <Payout count="4" payout="400" />
+      <Payout count="5" payout="2500" />
+    </Payout>
+    <Payout symbol="10">
+      <Payout count="1" payout="2" />
+      <Payout count="2" payout="10" />
+      <Payout count="3" payout="100" />
+      <Payout count="4" payout="500" />
+      <Payout count="5" payout="5000" />
+    </Payout>
+    <Payout symbol="Scatter">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="1" />
+      <Payout count="3" payout="5" />
+      <Payout count="4" payout="50" />
+      <Payout count="5" payout="150" />
+    </Payout>
+    <Payout symbol="Wild">
+      <Payout count="1" payout="0" />
+      <Payout count="2" payout="20" />
+      <Payout count="3" payout="200" />
+      <Payout count="4" payout="1000" />
+      <Payout count="5" payout="5000" />
+    </Payout>
+  </Payouts>
+  <LinesConfig>
+    <Line value="1">
+      <Reel value="1" position="2" />
+      <Reel value="2" position="2" />
+      <Reel value="3" position="2" />
+      <Reel value="4" position="2" />
+      <Reel value="5" position="2" />
+    </Line>
+    <Line value="2">
+      <Reel value="1" position="1" />
+      <Reel value="2" position="1" />
+      <Reel value="3" position="1" />
+      <Reel value="4" position="1" />
+      <Reel value="5" position="1" />
+    </Line>
+    <Line value="3">
+      <Reel value="1" position="3" />
+      <Reel value="2" position="3" />
+      <Reel value="3" position="3" />
+      <Reel value="4" position="3" />
+      <Reel value="5" position="3" />
+    </Line>
+    <Line value="4">
+      <Reel value="1" position="1" />
+      <Reel value="2" position="2" />
+      <Reel value="3" position="3" />
+      <Reel value="4" position="2" />
+      <Reel value="5" position="1" />
+    </Line>
+    <Line value="5">
+      <Reel value="1" position="3" />
+      <Reel value="2" position="2" />
+      <Reel value="3" position="1" />
+      <Reel value="4" position="2" />
+      <Reel value="5" position="3" />
+    </Line>
+    <Line value="6">
+      <Reel value="1" position="1" />
+      <Reel value="2" position="1" />
+      <Reel value="3" position="2" />
+      <Reel value="4" position="3" />
+      <Reel value="5" position="3" />
+    </Line>
+    <Line value="7">
+      <Reel value="1" position="3" />
+      <Reel value="2" position="3" />
+      <Reel value="3" position="2" />
+      <Reel value="4" position="1" />
+      <Reel value="5" position="1" />
+    </Line>
+    <Line value="8">
+      <Reel value="1" position="2" />
+      <Reel value="2" position="1" />
+      <Reel value="3" position="1" />
+      <Reel value="4" position="2" />
+      <Reel value="5" position="1" />
+    </Line>
+    <Line value="9">
+      <Reel value="1" position="3" />
+      <Reel value="2" position="2" />
+      <Reel value="3" position="3" />
+      <Reel value="4" position="3" />
+      <Reel value="5" position="2" />
+    </Line>
+    <Line value="10">
+      <Reel value="1" position="2" />
+      <Reel value="2" position="1" />
+      <Reel value="3" position="2" />
+      <Reel value="4" position="3" />
+      <Reel value="5" position="2" />
+    </Line>
+    <Line value="11">
+      <Reel value="1" position="2" />
+      <Reel value="2" position="3" />
+      <Reel value="3" position="2" />
+      <Reel value="4" position="1" />
+      <Reel value="5" position="2" />
+    </Line>
+    <Line value="12">
+      <Reel value="1" position="1" />
+      <Reel value="2" position="2" />
+      <Reel value="3" position="1" />
+      <Reel value="4" position="1" />
+      <Reel value="5" position="2" />
+    </Line>
+    <Line value="13">
+      <Reel value="1" position="2" />
+      <Reel value="2" position="3" />
+      <Reel value="3" position="3" />
+      <Reel value="4" position="2" />
+      <Reel value="5" position="3" />
+    </Line>
+    <Line value="14">
+      <Reel value="1" position="1" />
+      <Reel value="2" position="3" />
+      <Reel value="3" position="1" />
+      <Reel value="4" position="3" />
+      <Reel value="5" position="1" />
+    </Line>
+    <Line value="15">
+      <Reel value="1" position="3" />
+      <Reel value="2" position="1" />
+      <Reel value="3" position="3" />
+      <Reel value="4" position="1" />
+      <Reel value="5" position="3" />
+    </Line>
+    <Line value="16">
+      <Reel value="1" position="1" />
+      <Reel value="2" position="2" />
+      <Reel value="3" position="2" />
+      <Reel value="4" position="2" />
+      <Reel value="5" position="1" />
+    </Line>
+    <Line value="17">
+      <Reel value="1" position="3" />
+      <Reel value="2" position="2" />
+      <Reel value="3" position="2" />
+      <Reel value="4" position="2" />
+      <Reel value="5" position="3" />
+    </Line>
+    <Line value="18">
+      <Reel value="1" position="2" />
+      <Reel value="2" position="1" />
+      <Reel value="3" position="3" />
+      <Reel value="4" position="1" />
+      <Reel value="5" position="2" />
+    </Line>
+    <Line value="19">
+      <Reel value="1" position="2" />
+      <Reel value="2" position="3" />
+      <Reel value="3" position="1" />
+      <Reel value="4" position="3" />
+      <Reel value="5" position="2" />
+    </Line>
+    <Line value="20">
+      <Reel value="1" position="1" />
+      <Reel value="2" position="3" />
+      <Reel value="3" position="3" />
+      <Reel value="4" position="3" />
+      <Reel value="5" position="1" />
+    </Line>
+    <Line value="21">
+      <Reel value="1" position="3" />
+      <Reel value="2" position="1" />
+      <Reel value="3" position="1" />
+      <Reel value="4" position="1" />
+      <Reel value="5" position="3" />
+    </Line>
+  </LinesConfig>
+  <Betinfo minbet="0" maxbet="0" />
+  <Jackpot use="False" />
+  <SuperWild use="False" />
+  <RTP value="" />
+  <Bonus use="False" scattersforbonus="0" flashgame="" bonusws="" bonusmachineid="0" />
+  <FreeSpins usefreespin="True" freespinanywild="True" ReturnJSON="False" FreeSpinsUseScatter="False" FreeSpinCanGetFreeSpins="True">
+    <Freespinitem numwild="2" numspins="5" Multiplier="1" />
+    <Freespinitem numwild="3" numspins="10" Multiplier="1" />
+    <Freespinitem numwild="4" numspins="15" Multiplier="1" />
+    <Freespinitem numwild="5" numspins="20" Multiplier="1" />
+  </FreeSpins>
+</SlotOptions>
