@@ -1,6 +1,6 @@
 {
   "name": "convert-slot-xml-to-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to convert XML history and XML Schema in JSON-usable data",
   "main": "index.js",
   "scripts": {
