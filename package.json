@@ -19,6 +19,7 @@
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-es2015-modules-umd": "^6.12.0",
     "babel-preset-es2015": "^6.14.0",
-    "webpack": "^1.13.2"
+    "webpack": "^1.13.2",
+    "webpack-load-plugins": "^0.1.2"
   }
 }

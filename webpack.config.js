@@ -1,3 +1,5 @@
+var webpack = require('webpack')
+var plugins = require('webpack-load-plugins')();
 module.exports = {
   entry: "./index.js",
   output: {
@@ -6,6 +8,19 @@ module.exports = {
     libraryTarget: 'umd',
     umdNamedDefine: true
   },
+  plugins: [
+    new webpack.optimize.UglifyJsPlugin({
+      minimize: true,
+      sourceMap: true,
+      mangle: false,
+      output: {
+        comments: false
+      },
+      compressor: {
+        warnings: false
+      }
+    })
+  ],
   module: {
     loaders: [
       {
