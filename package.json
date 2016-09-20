@@ -7,6 +7,10 @@
     "test": "cd test/ && node index.js",
     "build": "webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@git.clickbit.net:neutrino-games/convert-slot-xml-to-json.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -20,6 +24,7 @@
     "babel-plugin-transform-es2015-modules-umd": "^6.12.0",
     "babel-preset-es2015": "^6.14.0",
     "webpack": "^1.13.2",
-    "webpack-load-plugins": "^0.1.2"
+    "webpack-load-plugins": "^0.1.2",
+    "wrapper-webpack-plugin": "^0.1.7"
   }
 }

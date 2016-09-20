@@ -1,5 +1,8 @@
+var pkg = require('./package.json')
+var os = require("os")
 var webpack = require('webpack')
 var plugins = require('webpack-load-plugins')();
+var WrapperPlugin = require('wrapper-webpack-plugin');
 module.exports = {
   entry: "./index.js",
   output: {
@@ -19,6 +22,14 @@ module.exports = {
       compressor: {
         warnings: false
       }
+    }),
+    new WrapperPlugin({
+      header: `/*!
+ * ${pkg.name}
+ * ${pkg.description}
+ * compiled at ${os.hostname()} ${new Date()}
+ */
+`
     })
   ],
   module: {
