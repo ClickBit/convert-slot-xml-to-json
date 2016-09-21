@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Content>
+  <Row>
+    <General PlayID="2187" TransactionTime="2016-09-21 10:40:13" Balance="614.0000" BalanceWinnings="165439.6306" BalanceBonus="100.0000" Risk="42.0000" Win="84.0000" RiskBonus="0.0000" WinBonus="0.0000" MoreRecords="1" />
+    <Casino Game="Wild Fruitastic Mobile 88 Mar 17 2015 payout">
+      <Hand HandID="1" Outcome="Win" TotalWin="84" Jackpot="" BetLines="21" CoinValue="2" TwoWays="False" SuperWild="False" />
+      <Line1 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>9</Reel2>
+        <Reel3>1</Reel3>
+        <Reel4>6</Reel4>
+        <Reel5>12</Reel5>
+      </Line1>
+      <Line2 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>4</Reel2>
+        <Reel3>5</Reel3>
+        <Reel4>11</Reel4>
+        <Reel5>11</Reel5>
+      </Line2>
+      <Line3 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>1</Reel2>
+        <Reel3>2</Reel3>
+        <Reel4>2</Reel4>
+        <Reel5>2</Reel5>
+      </Line3>
+      <Line4 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>9</Reel2>
+        <Reel3>2</Reel3>
+        <Reel4>6</Reel4>
+        <Reel5>11</Reel5>
+      </Line4>
+      <Line5 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>9</Reel2>
+        <Reel3>5</Reel3>
+        <Reel4>6</Reel4>
+        <Reel5>2</Reel5>
+      </Line5>
+      <Line6 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>4</Reel2>
+        <Reel3>1</Reel3>
+        <Reel4>2</Reel4>
+        <Reel5>2</Reel5>
+      </Line6>
+      <Line7 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>1</Reel2>
+        <Reel3>1</Reel3>
+        <Reel4>11</Reel4>
+        <Reel5>11</Reel5>
+      </Line7>
+      <Line8 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>4</Reel2>
+        <Reel3>5</Reel3>
+        <Reel4>6</Reel4>
+        <Reel5>11</Reel5>
+      </Line8>
+      <Line9 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>9</Reel2>
+        <Reel3>2</Reel3>
+        <Reel4>2</Reel4>
+        <Reel5>12</Reel5>
+      </Line9>
+      <Line10 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>4</Reel2>
+        <Reel3>1</Reel3>
+        <Reel4>2</Reel4>
+        <Reel5>12</Reel5>
+      </Line10>
+      <Line11 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>1</Reel2>
+        <Reel3>1</Reel3>
+        <Reel4>11</Reel4>
+        <Reel5>12</Reel5>
+      </Line11>
+      <Line12 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>9</Reel2>
+        <Reel3>5</Reel3>
+        <Reel4>11</Reel4>
+        <Reel5>12</Reel5>
+      </Line12>
+      <Line13 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>1</Reel2>
+        <Reel3>2</Reel3>
+        <Reel4>6</Reel4>
+        <Reel5>2</Reel5>
+      </Line13>
+      <Line14 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>1</Reel2>
+        <Reel3>5</Reel3>
+        <Reel4>2</Reel4>
+        <Reel5>11</Reel5>
+      </Line14>
+      <Line15 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>4</Reel2>
+        <Reel3>2</Reel3>
+        <Reel4>11</Reel4>
+        <Reel5>2</Reel5>
+      </Line15>
+      <Line16 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>9</Reel2>
+        <Reel3>1</Reel3>
+        <Reel4>6</Reel4>
+        <Reel5>11</Reel5>
+      </Line16>
+      <Line17 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>9</Reel2>
+        <Reel3>1</Reel3>
+        <Reel4>6</Reel4>
+        <Reel5>2</Reel5>
+      </Line17>
+      <Line18 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>4</Reel2>
+        <Reel3>2</Reel3>
+        <Reel4>11</Reel4>
+        <Reel5>12</Reel5>
+      </Line18>
+      <Line19 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>1</Reel2>
+        <Reel3>5</Reel3>
+        <Reel4>2</Reel4>
+        <Reel5>12</Reel5>
+      </Line19>
+      <Line20 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>1</Reel2>
+        <Reel3>2</Reel3>
+        <Reel4>2</Reel4>
+        <Reel5>11</Reel5>
+      </Line20>
+      <Line21 OutCome="Lost" WildPayout="">
+        <Reel1>2</Reel1>
+        <Reel2>4</Reel2>
+        <Reel3>5</Reel3>
+        <Reel4>11</Reel4>
+        <Reel5>2</Reel5>
+      </Line21>
+      <Scatter OutCome="Win" Won="84" NumInARow="2" />
+    </Casino>
+  </Row>
+</Content>
