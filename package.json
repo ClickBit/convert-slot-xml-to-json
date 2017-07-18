@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.clickbit.net:neutrino-games/convert-slot-xml-to-json.git"
+    "url": "git@github.com:ClickBit/convert-slot-xml-to-json.git"
   },
   "author": "",
   "license": "ISC",
